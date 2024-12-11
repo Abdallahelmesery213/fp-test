@@ -1,0 +1,9 @@
+h2{
+    text-align: center;
+}
+.card{
+    border: 1px solid #cdcdcd;
+    width: 90%;
+    margin: 20px auto;
+    padding: 24px;
+}
